@@ -8,6 +8,7 @@ body {
     rgba(235, 221, 189, 1) 100%
   );
   font-family: "Oswald", arial;
+  overflow-x: hidden;
 }
 
 .nav-bar {
@@ -68,7 +69,7 @@ ul {
   display: flex;
   flex-direction: column;
   flex: 1 1 0;
-  width: 50vw;
+  width: 45vw;
   background: #f8a30c;
   background: linear-gradient(
     90deg,
